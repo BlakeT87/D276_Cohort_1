@@ -1,0 +1,2 @@
+D276 Cohort #1 
+Welcome to the Practical HTML & CSS cohort series. This is an informal screen-sharing environment where we introduce, use, and discuss the HTML and CSS elements taught in the Web Development Foundations (C779 & D276) and Web Development Applications (C777) courses. We will be building, over 4 sessions, a web-based personal portfolio that you may build for yourself along the way. This session will focus on an introduction to a basic coding environment and the foundational HTML used to build a web-based resume.
